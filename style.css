@@ -450,7 +450,7 @@ h2 {
   top: 50%;
   transform: translate(0, -50%);
   width: 100px;
-  height: 200px;
+  height: 300px;
   text-align: center;
   border-radius: 0 40px 40px 0;
   box-shadow: 0 0 50px rgba(255, 255, 255, 0.3);
