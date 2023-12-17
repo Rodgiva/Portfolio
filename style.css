@@ -519,6 +519,9 @@ h2 {
 
 .projects-container > div > a > img {
   width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  border: thick solid white;
 }
 
 .projects-container > div > a {
